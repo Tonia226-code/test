@@ -95,6 +95,7 @@ let acceptData = () => {
 
 
 
+
 let resetForm = () => {
   textInput.value = "";
   dateInput.value = "";
